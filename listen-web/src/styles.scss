@@ -20,7 +20,7 @@ $listen-web-warn: mat-palette($mat-red);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
-$listen-web-theme: mat-light-theme((
+$listen-web-theme: mat-dark-theme((
   color: (
     primary: $listen-web-primary,
     accent: $listen-web-accent,
